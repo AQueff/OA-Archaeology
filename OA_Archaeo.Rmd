@@ -98,11 +98,12 @@ We hope you find write\LaTeX\ useful for your PeerJ submission, and please let u
 - Plot APC x JIF
 
 *Journal figures:*
-Journal Impact Factor (JIF) which is calculated on the two last complete years
-5 year JIF: same but on 5 years
-Scopus CiteScore = JIF over 4 years (standard JIF is 2 years) (https://service.elsevier.com/app/answers/detail/a_id/14880/supporthub/scopus/)
-Scopus SCImago Journal Rank (SJR) integrate the prestige of the citation's journal ! (https://service.elsevier.com/app/answers/detail/a_id/14883/supporthub/scopus/)
-Scopus Source Normalized Impact per Paper (SNIP) (https://service.elsevier.com/app/answers/detail/a_id/14884/supporthub/scopus/related/1/)
+
+- Journal Impact Factor (JIF) which is calculated on the two last complete years
+- 5 year JIF: same but on 5 years
+- Scopus CiteScore = JIF over 4 years (standard JIF is 2 years) (https://service.elsevier.com/app/answers/detail/a_id/14880/supporthub/scopus/)
+- Scopus SCImago Journal Rank (SJR) integrate the prestige of the citation's journal ! (https://service.elsevier.com/app/answers/detail/a_id/14883/supporthub/scopus/
+-  Source Normalized Impact per Paper (SNIP) (https://service.elsevier.com/app/answers/detail/a_id/14884/supporthub/scopus/related/1/)
 
 
 ```{r results, fig.width = 5, fig.height = 4, out.width = "100%", fig.cap = "In-text Picture", echo = FALSE}
