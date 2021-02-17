@@ -2,4 +2,5 @@
 
 Should we try a github approach to this paper? OMG !!!
 
-Faut mettre le fichier .rmd à la racine du repository c'est ça? en gardant l'arborsecence nécessaire pour ce fichier, comme si c'était mon dossier sur mon ordi. Et comme ça toi, au besoin, par exemple, tu télécharge le .zip et hop, tu peux lancer le .rmd avec la bonne arborescence et les fichiers à jour. C'est l'idée?
+Bon ça y est j'ai installé GitHubdesktop, j'ai synchronisé le dossier entre mon ordi et GitHub. 
+J'ai aussi nettoyé le fichier .rmd pour commencer à faire un truc qui ressemble à ce que l'on veut écrire. J'ai choisi un style au hasard, on s'en fout pour l'instant.
